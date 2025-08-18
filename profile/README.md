@@ -1,6 +1,8 @@
-## A Universal Policy Layer for the Automated Economy
+## PEAC: Programmable Environment for Agent Coordination
 
-PEAC (Programmable Economic Access, Attribution & Consent) Protocol is an open standard that enables content creators, publishers, and automated systems to negotiate access, payments, and compliance programmatically. Building on proven web standards, PEAC establishes a machine-readable policy file (peac.txt) that works alongside existing infrastructure.
+An open specification for machine-readable policies and agent coordination on the web.
+
+PEAC (pronounced "peace") Protocol is an open standard that enables content creators, publishers, and automated systems to negotiate access, payments, and compliance programmatically. Building on proven web standards, PEAC establishes a machine-readable policy file (peac.txt) that works alongside existing infrastructure.
 
 ## What is PEAC Protocol?
 
